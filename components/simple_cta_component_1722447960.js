@@ -2,24 +2,24 @@
 */
 Vue.component("simple_cta_component_1722447960", {
     template: `
-    <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
-        <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
+    <section id="cta-component" class="bg-gradient-to-br from-pink-400 to-purple-600 flex-1 p-8">
+        <div id="cta-inner-container" class="max-w-screen-xl px-8 py-16 mx-auto backdrop-blur-md bg-white/20 rounded-3xl shadow-lg">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
-                    <h2 id="cta-title" class="flex-1 mb-4 text-3xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white">Unlock Insights Into New Products</h2>
+                    <h2 id="cta-title" class="flex-1 mb-6 text-4xl font-extrabold leading-tight tracking-tight text-white">Unlock Insights Into New Products</h2>
                 </div>
 
                 <div id="cta-subtitle-container" class="flex">
-                    <p id="cta-subtitle" class="flex-1 mb-6 font-light text-gray-500 dark:text-gray-400 md:text-lg">Gain a competitive edge with our powerful analysis tools for the latest product launches.</p>
+                    <p id="cta-subtitle" class="flex-1 mb-8 font-light text-pink-100 md:text-xl">Gain a competitive edge with our powerful analysis tools for the latest product launches.</p>
                 </div>
                 
                 <div id="cta-button-container" class="flex">
-                    <a id="cta-button" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">Analyze New Products Now</a>
+                    <a id="cta-button" href="#" class="flex-1 text-purple-800 bg-pink-200 hover:bg-pink-300 focus:ring-4 focus:ring-pink-300 font-bold rounded-full text-lg px-8 py-4 transition duration-300 ease-in-out transform hover:scale-105">Analyze New Products Now</a>
                 </div>
             </div>
         </div>
     </section>
-        `,
+    `,
     data() {
         return {
             expanded: false,

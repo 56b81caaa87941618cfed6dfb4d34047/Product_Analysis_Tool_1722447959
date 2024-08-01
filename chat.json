@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text Grea",
+        "message_id": "guest01082024042436",
+        "timestamp": "01082024042438",
+        "component_file_name": "simple_footer_component_1722447960",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",

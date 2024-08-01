@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned in the app's interface?\", \"option1\": \"At the bottom of the screen, center-aligned.\", \"option2\": \"At the top of the screen, right-aligned.\"}, {\"question 2\": \"What action should occur when the 'Great' button is pressed?\", \"option1\": \"Navigate to a new page showing product details.\", \"option2\": \"Display a confirmation message or popup.\"}], \"input_token_count\": 261, \"output_token_count\": 107, \"time_taken\": \"0:00:02.235164\"}",
+        "message_id": "guest01082024042436",
+        "timestamp": "01082024042440",
+        "component_file_name": "simple_footer_component_1722447960",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a button with text \"Grea\".",
         "message_id": "guest01082024042436",

@@ -12,5 +12,11 @@
         "content": "add a button with text Grea",
         "timestamp": "01082024042438",
         "message_id": "guest01082024042436"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Working on adding a button with text \"Grea\".",
+        "timestamp": "01082024042438",
+        "message_id": "guest01082024042436"
     }
 ]

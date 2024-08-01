@@ -17,6 +17,10 @@ Vue.component("simple_footer_component_1722447960", {
                     <div id="footer-text" class="flex-1 block text-xl text-center text-white font-medium backdrop-blur-2xl bg-white bg-opacity-10 rounded-2xl p-8 shadow-2xl">
                         Unlock valuable market intelligence with our AI-powered product analysis tool. Stay ahead of trends and make data-driven decisions for your business.
                     </div>
+                    </div>
+                </div>
+                <div class="flex justify-center mt-8">
+                    <button class="bg-white text-purple-600 font-bold py-2 px-4 rounded-lg shadow-md hover:bg-purple-100 transition duration-300">Grea</button>
                 </div>
             </div>
         </footer> 
